@@ -1,12 +1,12 @@
-# RAG com Gemini e Pinecone
+# RAG  with Gemini and Pinecone
 
-Exemplo em construção...
+Example in progress... coming soon...
+
 ## Envs 
 ```
-export GEMINI_API_KEY="SUA_CHAVE_GEMINI"
-export PINECONE_API_KEY="SUA_CHAVE_PINECONE"
-export PINECONE_ENVIRONMENT="SEU_ENV_PINECONE"
-export PINECONE_INDEX_NAME="SEU_INDICE_PINECONE"
+PINECONE_API_KEY=your-pinecone-api-key
+PINECONE_INDEX=your-pinecone-index
+GEMINI_API_KEY=your-gemini-api-key
 ```
 
 ## Execute
