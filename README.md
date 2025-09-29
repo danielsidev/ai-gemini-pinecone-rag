@@ -6,7 +6,7 @@ An Example of RAG with Golang, Gemini and Pinecone.
 
 We need some API KEYs:
 
-- PINECONE AOI KEY (create an free account in [https://app.pinecone.io/](https://app.pinecone.io/) and generate your api key)
+- PINECONE API KEY (create an free account in [https://app.pinecone.io/](https://app.pinecone.io/) and generate your api key)
 - GEMINI API KEY ( generate your free api key in [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key) )
 
 
