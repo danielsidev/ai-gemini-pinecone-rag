@@ -2,6 +2,8 @@
 
 An Example of RAG with Golang, Gemini and Pinecone.
 
+![Gemini Flash](https://img.shields.io/badge/Gemini-2.0_Flash-886CE4?style=for-the-badge&logo=googlegemini&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=for-the-badge&logoColor=white) <img src="https://s3.amazonaws.com/appforest_uf/f1679157815668x357855949495047500/io6cC6vZ_400x400.png" alt="Claude AI" width="28" height="28"/> ![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ## Requirements
 
 We need some API KEYs:
